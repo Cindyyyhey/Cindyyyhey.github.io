@@ -1,2 +1,2 @@
-# Cindyyyhey.github.io
-my website
+# Cindy Chen
+my personal website
